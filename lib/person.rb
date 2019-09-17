@@ -6,3 +6,5 @@ end
 def Name 
   @name 
     
+def Job(job)
+  @job = job 
